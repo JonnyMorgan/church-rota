@@ -15,3 +15,5 @@ venv/
 .vscode/
 .idea/
 
+# Config Files
+config.json
